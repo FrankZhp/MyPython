@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project PyQt5_Test -->
+<!-- Saved: 2019-05-31, 13:28:58 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{b50fb38f-3627-48ef-a267-779948509169}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-05-31, 13:11:46</Created>
+    <Resource>
+      <Filename>MainWindow.py</Filename>
+      <Linenumber>34</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{5486dd6c-e340-46d1-bfd3-4d456f82e18b}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-05-31, 13:11:46</Created>
+    <Resource>
+      <Filename>MainWindow.py</Filename>
+      <Linenumber>43</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{7529183d-6356-405b-83ac-ba78dd8d64de}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-05-31, 13:11:46</Created>
+    <Resource>
+      <Filename>MainWindow.py</Filename>
+      <Linenumber>52</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{c4eed705-6506-4580-a9e6-ed49b19e9596}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-05-31, 13:18:38</Created>
+    <Resource>
+      <Filename>ChildForm.py</Filename>
+      <Linenumber>32</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
