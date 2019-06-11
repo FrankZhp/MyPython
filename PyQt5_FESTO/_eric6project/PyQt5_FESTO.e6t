@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project PyQt5_FESTO -->
+<!-- Saved: 2019-06-10, 10:38:02 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{f424da88-4206-4937-8d4f-cf4f673e2a4a}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:33:12</Created>
+    <Resource>
+      <Filename>SubForm1_CSVToExcel.py</Filename>
+      <Linenumber>47</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{7f77c806-1dd8-4eb2-82c5-535c235fcb87}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:33:12</Created>
+    <Resource>
+      <Filename>SubForm1_CSVToExcel.py</Filename>
+      <Linenumber>104</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{0cd4843b-7526-4bee-844e-1ed1b1ff0e72}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:33:12</Created>
+    <Resource>
+      <Filename>SubForm1_CSVToExcel.py</Filename>
+      <Linenumber>119</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{258041aa-f843-47a0-bb05-fc2c76142aa2}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:33:12</Created>
+    <Resource>
+      <Filename>SubForm2_MergeFESTO.py</Filename>
+      <Linenumber>48</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{efd3a851-cb2c-413f-8010-45c5e11ede05}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:33:12</Created>
+    <Resource>
+      <Filename>SubForm2_MergeFESTO.py</Filename>
+      <Linenumber>160</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{224c96f8-69fd-4460-a1cd-912efff50cce}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:33:12</Created>
+    <Resource>
+      <Filename>SubForm2_MergeFESTO.py</Filename>
+      <Linenumber>172</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{03296182-688f-4dcb-a116-fac3a7ab0ec4}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:33:12</Created>
+    <Resource>
+      <Filename>SubForm3_Mapping.py</Filename>
+      <Linenumber>38</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{452c830e-940e-4c3e-8674-d662645bd0d0}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:33:12</Created>
+    <Resource>
+      <Filename>SubForm3_Mapping.py</Filename>
+      <Linenumber>91</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{28bb20c4-41cb-4cc1-b18d-1a710aaaf166}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:33:12</Created>
+    <Resource>
+      <Filename>SubForm3_Mapping.py</Filename>
+      <Linenumber>104</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{ac3f555a-9c61-4475-8111-d3a461123d76}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:33:12</Created>
+    <Resource>
+      <Filename>SubForm3_Mapping.py</Filename>
+      <Linenumber>116</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{35fb2c89-b616-4074-810b-2c2adb014b60}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:33:12</Created>
+    <Resource>
+      <Filename>SubForm4_Summary.py</Filename>
+      <Linenumber>40</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{6019d876-30d7-4d50-aacf-4a5042f416d1}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:33:12</Created>
+    <Resource>
+      <Filename>SubForm4_Summary.py</Filename>
+      <Linenumber>119</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{a1d0e9ee-ea67-4fcf-9a93-a5ffcb96f111}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:33:12</Created>
+    <Resource>
+      <Filename>SubForm4_Summary.py</Filename>
+      <Linenumber>132</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{4f302200-36c5-4a5e-88cc-19453d4865a9}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:33:12</Created>
+    <Resource>
+      <Filename>SubForm5_MergeInvoice.py</Filename>
+      <Linenumber>44</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{9d4add2d-4064-45c0-baee-d7dac1e85416}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:33:12</Created>
+    <Resource>
+      <Filename>SubForm5_MergeInvoice.py</Filename>
+      <Linenumber>143</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{74d1b29a-7cfd-44a3-806a-dcbf3fe8f278}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:33:12</Created>
+    <Resource>
+      <Filename>SubForm5_MergeInvoice.py</Filename>
+      <Linenumber>156</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{7e45562f-348d-4c70-b0d7-937e21d07da2}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:33:12</Created>
+    <Resource>
+      <Filename>SubForm6_AppendInvoice.py</Filename>
+      <Linenumber>40</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{7d72e187-6023-4271-81c5-3227ebcd1d73}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:33:12</Created>
+    <Resource>
+      <Filename>SubForm6_AppendInvoice.py</Filename>
+      <Linenumber>53</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{a9ded746-8de8-4b7f-a01f-77b3476dfc53}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:33:12</Created>
+    <Resource>
+      <Filename>SubForm6_AppendInvoice.py</Filename>
+      <Linenumber>65</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{9e167cc4-b259-438d-824f-0b3a86dfa652}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:33:12</Created>
+    <Resource>
+      <Filename>SubForm6_AppendInvoice.py</Filename>
+      <Linenumber>77</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{750bae65-e76e-4976-83e3-3d924ee4cfb7}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:33:12</Created>
+    <Resource>
+      <Filename>SubForm8_GetUnitPrices.py</Filename>
+      <Linenumber>67</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{3a317b6f-2017-4bd6-ab87-b86221ed0b61}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:33:13</Created>
+    <Resource>
+      <Filename>SubForm8_GetUnitPrices.py</Filename>
+      <Linenumber>141</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{10d7d425-f3f1-46fd-bc3f-36dc42e9b510}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:33:13</Created>
+    <Resource>
+      <Filename>SubForm8_GetUnitPrices.py</Filename>
+      <Linenumber>154</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{aa845c1c-f62d-422e-adeb-2d3bf07d62e3}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:33:13</Created>
+    <Resource>
+      <Filename>SubForm_About.py</Filename>
+      <Linenumber>32</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{9bacfc94-4f21-4c28-84fa-1dac0459ae9d}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:33:13</Created>
+    <Resource>
+      <Filename>SubForm_Help.py</Filename>
+      <Linenumber>32</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{47033fc6-dc9f-4cd7-bfc6-250fd9b5bbe7}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:34:09</Created>
+    <Resource>
+      <Filename>QMainWindow.py</Filename>
+      <Linenumber>120</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{3c780b39-f8b2-4501-a883-3e06f3cb8cfa}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:34:09</Created>
+    <Resource>
+      <Filename>QMainWindow.py</Filename>
+      <Linenumber>131</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{0bc1f84f-a6fc-4b1c-84df-8b09777b5667}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:34:09</Created>
+    <Resource>
+      <Filename>QMainWindow.py</Filename>
+      <Linenumber>143</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{fe8c9ef8-779c-4081-b8a5-6a4b18293956}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:34:09</Created>
+    <Resource>
+      <Filename>QMainWindow.py</Filename>
+      <Linenumber>154</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{fd4cd8e5-8a52-4b13-88b9-2bc33892f1fd}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:34:09</Created>
+    <Resource>
+      <Filename>QMainWindow.py</Filename>
+      <Linenumber>165</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{6aac2e81-ad05-42a0-8562-cc365687dcf0}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:34:09</Created>
+    <Resource>
+      <Filename>QMainWindow.py</Filename>
+      <Linenumber>176</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{ab3804ea-3a1e-4093-ac80-d52b667f58bb}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:34:09</Created>
+    <Resource>
+      <Filename>QMainWindow.py</Filename>
+      <Linenumber>187</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{d41981a3-402e-4f61-9a7c-99fece77bb16}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:34:09</Created>
+    <Resource>
+      <Filename>QMainWindow.py</Filename>
+      <Linenumber>198</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{a5e1f2c5-5238-49ab-adbb-499445f81bdd}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:34:09</Created>
+    <Resource>
+      <Filename>QMainWindow.py</Filename>
+      <Linenumber>209</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{2f26f2a6-a6e8-4c46-b008-024a987217b0}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:34:09</Created>
+    <Resource>
+      <Filename>QMainWindow.py</Filename>
+      <Linenumber>221</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{72d9344f-e306-4180-9536-d828c5c5eb52}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:34:09</Created>
+    <Resource>
+      <Filename>QMainWindow.py</Filename>
+      <Linenumber>235</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{50933382-0b06-4717-9edd-cb6a379aa76d}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:34:09</Created>
+    <Resource>
+      <Filename>QMainWindow.py</Filename>
+      <Linenumber>245</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{f72ccc65-7765-4aad-b8a9-d5a60aadd59e}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:34:53</Created>
+    <Resource>
+      <Filename>SubForm7_GetUnitPrices.py</Filename>
+      <Linenumber>67</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{f9c12da8-8be4-4fff-ad30-32ba5af4a109}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:34:53</Created>
+    <Resource>
+      <Filename>SubForm7_GetUnitPrices.py</Filename>
+      <Linenumber>170</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{906153fb-0d83-4dba-aafb-38ed7ce200cb}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:35:15</Created>
+    <Resource>
+      <Filename>SubForm9_MakeReport.py</Filename>
+      <Linenumber>58</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{d6aa357d-8033-4a05-973e-25ebeffa73bf}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:35:15</Created>
+    <Resource>
+      <Filename>SubForm9_MakeReport.py</Filename>
+      <Linenumber>220</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{0ac29b25-7243-477b-8022-15cabbaaebce}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:35:15</Created>
+    <Resource>
+      <Filename>SubForm9_MakeReport.py</Filename>
+      <Linenumber>233</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{5d1daf7a-423c-43e1-98d5-ac9aff2a80c0}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-10, 10:35:15</Created>
+    <Resource>
+      <Filename>SubForm9_MakeReport.py</Filename>
+      <Linenumber>245</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>

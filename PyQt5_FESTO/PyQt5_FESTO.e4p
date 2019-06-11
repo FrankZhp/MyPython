@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-5.1.dtd">
+<!-- eric project file for project PyQt5_FESTO -->
+<!-- Saved: 2019-06-06, 14:05:50 -->
+<!-- Copyright (C) 2019 ,  -->
+<Project version="5.1">
+  <Language>en_US</Language>
+  <Hash>1efd6ccd990e33c4f4a8766de27c969852ee11cf</Hash>
+  <ProgLanguage mixed="0">Python3</ProgLanguage>
+  <ProjectType>PyQt5</ProjectType>
+  <Version>0.1</Version>
+  <Author></Author>
+  <Email></Email>
+  <Eol index="0"/>
+  <Sources>
+    <Source>QMainWindow.py</Source>
+    <Source>SubForm1_CSVToExcel.py</Source>
+    <Source>SubForm2_MergeFESTO.py</Source>
+    <Source>SubForm3_Mapping.py</Source>
+    <Source>SubForm4_Summary.py</Source>
+    <Source>SubForm5_MergeInvoice.py</Source>
+    <Source>SubForm6_AppendInvoice.py</Source>
+    <Source>SubForm7_GetUnitPrices.py</Source>
+    <Source>SubForm8_GetUnitPrices.py</Source>
+    <Source>SubForm9_MakeReport.py</Source>
+    <Source>SubForm_About.py</Source>
+    <Source>SubForm_Help.py</Source>
+    <Source>Ui_QMainWindow.py</Source>
+    <Source>Ui_SubForm1_CSVToExcel.py</Source>
+    <Source>Ui_SubForm2_MergeFESTO.py</Source>
+    <Source>Ui_SubForm3_Mapping.py</Source>
+    <Source>Ui_SubForm4_Summary.py</Source>
+    <Source>Ui_SubForm5_MergeInvoice.py</Source>
+    <Source>Ui_SubForm6_AppendInvoice.py</Source>
+    <Source>Ui_SubForm7_GetUnitPrices.py</Source>
+    <Source>Ui_SubForm8_GetUnitPrices.py</Source>
+    <Source>Ui_SubForm9_MakeReport.py</Source>
+    <Source>Ui_SubForm_About.py</Source>
+    <Source>Ui_SubForm_Help.py</Source>
+    <Source>__init__.py</Source>
+  </Sources>
+  <Forms>
+    <Form>QMainWindow.ui</Form>
+    <Form>SubForm1_CSVToExcel.ui</Form>
+    <Form>SubForm2_MergeFESTO.ui</Form>
+    <Form>SubForm3_Mapping.ui</Form>
+    <Form>SubForm4_Summary.ui</Form>
+    <Form>SubForm5_MergeInvoice.ui</Form>
+    <Form>SubForm6_AppendInvoice.ui</Form>
+    <Form>SubForm7_GetUnitPrices.ui</Form>
+    <Form>SubForm8_GetUnitPrices.ui</Form>
+    <Form>SubForm9_MakeReport.ui</Form>
+    <Form>SubForm_About.ui</Form>
+    <Form>SubForm_Help.ui</Form>
+  </Forms>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.e4p" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES"/>
+    <FiletypeAssociation pattern="*.md" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.proto" type="PROTOCOLS"/>
+    <FiletypeAssociation pattern="*.py" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.py3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.qm" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.qrc" type="RESOURCES"/>
+    <FiletypeAssociation pattern="*.rst" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.ts" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.txt" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.ui" type="FORMS"/>
+    <FiletypeAssociation pattern="README" type="OTHERS"/>
+    <FiletypeAssociation pattern="README.*" type="OTHERS"/>
+  </FiletypeAssociations>
+</Project>
